@@ -7,7 +7,7 @@
     "start": "parcel ./static/index.html",
     "test": "jest --env=node --colors test --watch",
     "prettier": "prettier --write './src/**/*.ts'",
-    "dev" : "parcel ./static/index.html",
+    "dev": "parcel ./static/index.html",
     "build": "parcel build ./static/index.html"
   },
   "author": "",
